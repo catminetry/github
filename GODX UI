@@ -1,0 +1,7 @@
+print("欢迎使用GOD X!!")
+wait(0.5)
+print("加载中")
+wait(0.25)
+print("加载成功！")
+wait(0.25)
+loadstring(game:HttpGet("https://pastebin.com/raw/14LCVMGE"))()
